@@ -26,6 +26,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
 
     $ git clone https://github.com/sensunny/digital_certificate_Issuance.git
     $ cd digital_certificate_Issuance
+    $ git checkout master
     $ npm install
 
 ## Running the project
